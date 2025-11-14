@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;:root{color-scheme:dark}html,body{@apply bg-cosmos-bg text-cosmos-text}a{@apply underline-offset-4}
