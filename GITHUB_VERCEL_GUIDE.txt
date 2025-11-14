@@ -1,0 +1,1 @@
+GitHub: Upload files. Vercel: Import repo, root apps/web, env vars, domaine calao.com, CRON.

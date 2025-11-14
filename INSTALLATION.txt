@@ -1,0 +1,1 @@
+Cloud-only: GitHub upload (contenu de ce dossier) → Vercel root apps/web → Env vars → Deploy → Migrations/Seed endpoints → supprimer endpoints.
